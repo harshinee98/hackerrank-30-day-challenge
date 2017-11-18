@@ -1,0 +1,7 @@
+int main() {
+    
+   char input_string[30];    
+      gets(input_string); 
+    printf("Hello, World.\n" );
+     puts(input_string);
+}
